@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heimerrr%20gitstargam&fontSize=60)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=50&color=64686C&center=true&multiline=true&lines=Hi+Heimerrr+Git+stargram;Nice+meet+you)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=50&color=64686C&center=true&multiline=true&width=800&height=200&lines=Hi+Heimerrr+Git+stargram;Nice+meet+you)](https://git.io/typing-svg)
 
 
 <div align=center>
