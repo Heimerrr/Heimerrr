@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=50&color=64686C&center=true&multiline=true&width=1200&height=200&lines=Hi+Heimerrr+Git+stargram;Nice+meet+you)](https://git.io/typing-svg)
 
-<div align=center>
- Introduction <br>
+
  
- #### 안녕하세요!
+ #### 🙌 안녕하세요! 
 
 </div>
 
