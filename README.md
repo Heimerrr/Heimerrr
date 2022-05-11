@@ -8,7 +8,6 @@
 </div>
 
 <div align = center>
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3376AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
